@@ -61,7 +61,7 @@ class Home extends Component {
                 <Button size = 'large'  color = 'teal' className="default-btn" onClick={this.goToCredits}>Credit</Button>
                 <div className="divider"></div>
                 {/* exit button */}
-                <a href="https://www.seedbox.com/en/">
+                <a href="https://www.google.com">
                 <Button icon size = 'large'  color = 'teal' className="default-btn">Exit <Icon name='sign-out' /></Button>
                 </a>
                 </Segment>
